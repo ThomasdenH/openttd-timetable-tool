@@ -3,6 +3,8 @@ name = "openttd-timetable-tool"
 version = "0.1.0"
 authors = ["Thomas den Hollander <denhollander.thomas@gmail.com>"]
 edition = "2018"
+description = "A tool for computing the start dates of time tables."
+license = "MIT/Apache-2.0"
 
 [dependencies]
 chrono = "0.4.6"
